@@ -1,4 +1,4 @@
-# 🎅 Santa Claus Design Patterns Project
+#  Chistmas project Design Patterns Project
 
 Mini projet en illustrant plusieurs Design Patterns :
 
@@ -10,7 +10,7 @@ Mini projet en illustrant plusieurs Design Patterns :
 
 ---
 
-## 📦 Prérequis
+## Prérequis
 
 - Python 3.9 ou supérieur
 - Aucun package externe requis
